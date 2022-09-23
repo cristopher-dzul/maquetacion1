@@ -1,0 +1,146 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  font-family:Helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+}
+  .papa1{
+    background-color: #ede4e4; 
+    max-width: 1200px;
+    height: 150px;px;
+    margin: auto;
+  }
+  .icono_tecno{
+
+width: 100px; 
+float: left;
+margin-left: 30px;
+margin-top: 18px;
+}
+.iconosredes{
+
+float: right;
+margin-top: 50px;
+text-align: center;
+}
+.redes{
+  width: 50px;
+  border-radius: 10px;
+}
+.botones{
+  text-align: center;
+  
+}
+.btn_inicio{
+  background-color: #8b0000;
+  color: #ede4e4;
+  border-radius: 5px;
+  margin-left: 20px;
+  padding: 10px;
+  text-decoration: none;
+  display: inline-block;
+  
+}
+.btn_inicio:hover{
+  background-color: #f44f4f;
+}
+.fondo{
+  background-image: url(imagenes/fototec.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 140px;
+  max-width: 1200px;
+  height: 350px;
+    margin: auto;
+    text-align: center;
+    background-position: 0px -320px;
+}
+.sentrado{
+ /* border:5px #333 solid;*/
+  margin: auto;
+ background-color: rgba(0, 0, 0,0.5);
+ padding: 10px;
+ max-width: 600px;
+
+}
+.parafo{
+  color: #ede4e4;
+  font-weight: bold;
+  line-height: 24px;
+ 
+}
+.contenedor1{ 
+  /*border: 2px #f44f4f solid;*/
+max-width: 1200px;
+margin-left: 76px;
+margin-top: 20px;
+
+
+
+}
+.imagen{
+  width: 500px;
+  display: inline-block;
+  margin-left: 80px;
+  
+}
+.titulo{
+  color: #e7a90b; 
+  font-weight: bolder;
+}
+.sustitulo{
+  color: #af1212; 
+  font-weight: bold;
+  
+}
+
+.parrafo2{
+  /*border: 2px #0c008b solid;*/
+  width: 500px;
+  display: inline-block;
+  margin-left: 20px;
+}
+.ubicasion{
+ /* border:2px #3f149c solid;*/ 
+  text-align: center;
+  max-width: 1200px;
+  height: 400px;
+  margin: auto;
+  
+}
+.mapa{
+  width: 1200px;
+  height: 350px;
+}
+.final{
+  /*border:2px #9400d3 solid; */
+  background-color: #8b0000;
+  max-width: 1200px;
+    height: 300px;px;
+    margin: auto;
+} 
+.vinces{
+  /*border:3px #ede4e4 solid;*/
+  width: 250px; 
+margin-left: 200px;
+margin-top: 18px;
+float: left;
+;
+}
+.datos{
+  display: inline-block;
+ /* border:3px #ede4e4 solid;*/
+  float: right;
+margin-top: 100px;
+/*text-align: center;*/
+margin-right: 100px;
+}
+.letras{
+  color: #ede4e4;
+  font-weight: bold;
+}
